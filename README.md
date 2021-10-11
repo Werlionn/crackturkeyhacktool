@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Werlionn/crackturkeyhacktool"><img src="http://dl.sabzlearn.ir/demo/storm/1demo.png" alt="Darkside"></a>
+  <a href="https://github.com/Werlionn/crackturkeyhacktool"><img src="https://media.discordapp.net/attachments/834453775321268254/839240818907676692/crackturkey23.png?width=480&height=480" alt="Darkside"></a>
 
 </h1>
 
@@ -41,7 +41,7 @@
 
 Kullancağınız Komutlar.
 ```bash
-$ git clone https://github.com/ultrasecurity/Storm-Breaker
+$ git clone https://github.com/Werlionn/crackturkeyhacktool
 $ cd Storm-Breaker
 $ sudo bash linux-installer.sh
 $ python3 -m pip install -r requirments.txt
